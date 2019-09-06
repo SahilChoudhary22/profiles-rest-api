@@ -25,7 +25,8 @@ SECRET_KEY = '-s$rl*zi&@q*)865ej=yv6xdiyw$!g)*7-s2!r#p+0ru%_z+x$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['snu.serveo.net',
+                 '127.0.0.1']
 
 
 # Application definition
